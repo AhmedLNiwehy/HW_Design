@@ -1,0 +1,19 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "15d0ca1e-fcae-4e56-a166-f664241013dd")
+	(paper "A3")
+	(title_block
+		(title "ESP32")
+		(date "2024-04-14")
+		(rev "1.0")
+		(company "Made by EL_Niwehy")
+	)
+	(lib_symbols)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
